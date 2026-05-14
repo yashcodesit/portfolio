@@ -400,7 +400,6 @@ body::before {
 ========================= */
 .skill-section {
   padding: 80px 10%;
-  background: #0a0a0a;
   color: white;
 }
 
@@ -564,12 +563,11 @@ body::before {
 
 .contact-section {
   padding: 100px 10%;
-  background: #0a0a0a;
   color: #ffffff;
 }
 
 .section-title {
-  text-align: center;
+  text-align: left;
   font-size: 3rem;
   margin-bottom: 60px;
   font-weight: 700;
